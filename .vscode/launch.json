@@ -1,0 +1,35 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CARVB_General",
+            "request": "launch",
+            "mainClass": "CARVB_General",
+            "projectName": "cache-aware-allocation_8117c167"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "uk.ac.york.mocha.simulator.experiments_AJLR_v2_0.Test",
+            "projectName": "cache-aware-allocation_8117c167"
+        },
+        {
+            "type": "java",
+            "name": "CARVB_General",
+            "request": "launch",
+            "mainClass": "uk.ac.york.mocha.simulator.experiments_CARVB.CARVB_General",
+            "projectName": "cache-aware-allocation_8117c167"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
